@@ -16,10 +16,5 @@ namespace VortexEditor
         {
             InitializeComponent();
         }
-
-        private void Info_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -79,7 +79,6 @@ namespace VortexEditor
             this.Name = "Info";
             this.ShowInTaskbar = false;
             this.Text = "Vortex Editor - Info";
-            this.Load += new System.EventHandler(this.Info_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
